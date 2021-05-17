@@ -31,7 +31,7 @@ User Trips by Gender by Weekday:
 )
  - To see all of my visualizations please click the link below:
  
- [link to dashboard](https://public.tableau.com/profile/bimala1619#!/vizhome/Challenge_16212776045180/CheckoutTimesforUsers)
+ [link to Metadata](https://public.tableau.com/profile/bimala1619#!/vizhome/Challenge_16212776045180/CheckoutTimesforUsers)
 
 
 New York Citi Bike data visualizations for August 
