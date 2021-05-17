@@ -29,6 +29,10 @@ User Trips by Gender by Weekday:
 - In this visualization, the graph shows the number of user types by gender for each hour for each day of the week as a heatmap. where male subscribers are more than female and      unknown gender who use bikes on Thursday and Friday.
 ![fifth image](/Resources/image5.PNG
 )
+ - To see all of my visualizations please click the link below:
+ 
+ [link to dashboard](https://public.tableau.com/profile/bimala1619#!/vizhome/Challenge_16212776045180/CheckoutTimesforUsers)
+
 
 New York Citi Bike data visualizations for August 
 ![sixth image](/Resources/image6.PNG
