@@ -47,6 +47,10 @@ Auguest Peak Hours:
 ![seventh image](/Resources/image7.PNG
 )
 
+ - To see all of my visualizations please click the link below:
+
+[link to dashboard](https://public.tableau.com/profile/bimala1619#!/vizhome/Book1_16213102531280/NYCstory?publish=yes)
+
 # Summary:
 After looking at what citibike has accomplished in New York, Des Moines shows promise in the business potential
 Additional two visualizations are:
